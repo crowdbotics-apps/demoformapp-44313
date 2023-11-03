@@ -29,11 +29,13 @@ const styles = StyleSheet.create({
     alignItems: "center"
   },
   oMyeTtmz: {
-    height: 660,
-    width: 346,
+    height: 674,
+    width: 381,
     backgroundColor: "#E4E4E4",
     borderRadius: 0,
-    color: "#777777"
+    color: "#777777",
+    left: -15,
+    top: -26
   }
 });
 export default WelcomeScreen;
